@@ -13,6 +13,7 @@ This results in drastic and unplanned replenishment actions which would result i
 ## Approach:
 
 We create a centralized framework which caters to the various water replenishment strategies and it’s respective costs based on the following parameters:
+
   - Soil Type of the regions
   - Artificial Source of Water
   - Interstate Transportation of Water
