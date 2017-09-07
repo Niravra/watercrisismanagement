@@ -20,4 +20,8 @@ We create a centralized framework which caters to the various water replenishmen
 
 The system follows a governance hierarchy in dealing with work requests.
 
+Use Cases :
+
+![Picture](https://github.com/Niravra/watercrisismanagement/blob/master/Assets/UseCase-WaterManagement.png)
+
 Please Check the added Presentation for better understanding of the whole project.
